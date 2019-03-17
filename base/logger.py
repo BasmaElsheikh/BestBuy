@@ -5,3 +5,4 @@ logging.debug('this message should go to file')
 logging.info('and this')
 logging.warning('and this')
 # logging.log(level=logging.DEBUG)
+#test
